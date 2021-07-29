@@ -4,7 +4,7 @@ authors: '<i>Evgenii Novozhilov, Ivan Veselov, Mikhail Pravilov, and Timofey Bry
 collection: publications
 permalink: /publication/2019-05-28-move-method-evolution
 date: 2019-05-28
-venue: "proceedings of <b>IWoR'29</b>"
+venue: "proceedings of <b>IWoR'19</b>"
 paperurl: 'https://doi.org/10.1109/IWoR.2019.00012'
 tool: 'https://github.com/JetBrains-Research/MoveMethodGenerator'
 data: 'https://github.com/ml-in-programming/MoveMethodDataset'
