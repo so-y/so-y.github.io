@@ -1,5 +1,5 @@
 ---
-title: "Data-based Code Synthesis in IntelliJ IDEA"
+title: "Data-Based Code Synthesis in IntelliJ IDEA"
 authors: '<i>Vladislav Tankov and Timofey Bryksin</i>'
 collection: publications
 permalink: /publication/2018-04-13-code-synthesis
