@@ -17,7 +17,7 @@
   font-weight: bold;
   text-align: center;
   text-decoration: none;
-  background-color: $primary-color;
+  background-color: #fff;
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
@@ -118,10 +118,10 @@
   /* social buttons */
 
   $social:
-  (facebook, $facebook-color),
-  (twitter, $twitter-color),
-  (google-plus, $google-plus-color),
-  (linkedin, $linkedin-color);
+                  (facebook, $facebook-color),
+                  (twitter, $twitter-color),
+                  (google-plus, $google-plus-color),
+                  (linkedin, $linkedin-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
@@ -149,5 +149,44 @@
 
   &--small {
     font-size: $type-size-7;
+  }
+
+  /* research page buttons */
+  &--research {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.125em 0.25em;
+    color: $link-color;
+    text-align: center;
+    text-decoration: none !important;
+    border: 1px solid;
+    border-color: $link-color;
+    border-radius: $border-radius;
+    background-color: #fff !important;
+    cursor: pointer;
+
+    &:hover {
+      color: #fff;
+      background-color: $link-color !important;
+    }
+  }
+
+  &--researchpreprint {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.125em 0.25em;
+    color: #888888;
+    text-align: center;
+    text-decoration: none !important;
+    border: 1px solid;
+    border-color: #888888;
+    border-radius: $border-radius;
+    background-color: #fff !important;
+    cursor: pointer;
+
+    &:hover {
+      color: #fff;
+      background-color: #888888 !important;
+    }
   }
 }

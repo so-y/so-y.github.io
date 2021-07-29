@@ -64,7 +64,7 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : #992017;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -125,14 +125,14 @@ $right-sidebar-width        : 0px;
 $right-sidebar-width-wide   : 0px;
 
 $susy: (
-  columns: 12,
-  column-width: 120px,
-  gutters: 1/4,
-  math: fluid,
-  output: float,
-  gutter-position: after,
-  container: $large,
-  global-box-sizing: border-box,
+        columns: 12,
+        column-width: 120px,
+        gutters: 1/4,
+        math: fluid,
+        output: float,
+        gutter-position: after,
+        container: $large,
+        global-box-sizing: border-box,
   // debug: (
   //   image: show,
   //   color: blue,
