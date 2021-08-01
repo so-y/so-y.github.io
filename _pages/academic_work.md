@@ -36,8 +36,19 @@ author_profile: true
 
 <h3>Teaching</h3>
 
-<b>2021</b>: a lecturer in the <i>Structures and algorithms for computer data processing</i> course at Saint Petersburg State University.<br>
-<b>2017–2020</b>: an organizer and a lecturer in the <i>School of Laser Technologies</i> at ITMO University.
+<b>Since 2008</b>: senior lecturer and assistant professor at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+<b>Since 2018</b>: assistant professor at <a href="https://www.hse.ru/en/">Higher School of Economics</a>.
+
+<b>Courses</b>:
+<ul>
+<li>Software development;</li>
+<li>Software architecture and design;</li>
+<li>The basics of C;</li>
+<li>Object Oriented Programming with Kotlin;</li>
+<li>Structures and algorithms for computer data processing;</li>
+<li>Functional programming in Haskell;</li>
+<li>Machine learning for software engineering.</li>
+</ul>
 
 <h3>Curating</h3>
 
