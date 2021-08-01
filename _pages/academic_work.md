@@ -28,10 +28,9 @@ author_profile: true
 <b>2020</b>: <a href="https://src.acm.org/candidates/2020">ACM SRC Grand Finals</a>, <a href="https://seim-conf.org/en/archive/2020/">SEIM</a><br>
 <b>2019</b>: <a href="https://seim-conf.org/en/archive/2019/">SEIM</a>
 
-<h3>Organizer</h3>
+<h3>Keynotes</h3>
 
-<b>2021</b>: <a href="https://iwor.github.io/iwor2021/index.html">IWoR</a> (Proceedings Chair)<br>
-<b>2016</b>: <a href="http://lpc.ifmo.ru/flamn16/">FLAMN</a> (Volunteer)
+<b>2021</b>: <a href="https://iwor.github.io/iwor2021/keynote.html">IWoR</a>, <a href="https://icsme2021.github.io/program/Keynotes.html">ICSME</a>
 
 <h2>University work</h2>
 
