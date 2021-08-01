@@ -50,12 +50,13 @@ author_profile: true
 <li>Machine learning for software engineering.</li>
 </ul>
 
-<h3>Curating</h3>
+<h3>Curating and advising</h3>
 
-<b>2021</b>.<br>
-<p>Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, Saint Petersburg State University.</p>
-<p>Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, Saint Petersburg State University.</p>
-
-<h2>Other</h2>
-
-<b>2016</b>. Participated in the <a href="https://www.timeshighereducation.com/world-university-rankings/brics-emerging-economies-universities-summit-take-place-johannesburg">THE BRICS & Emerging Economies Universities Summit</a> as a representative of Russian students.
+<b>2021</b>: 4 Master's theses and 6 Bachelor's theses.<br>
+<b>2020</b>: 2 Master's theses and 11 Bachelor's theses.<br>
+<b>2019</b>: 2 Master's theses and 7 Bachelor's theses.<br>
+<b>2018</b>: 4 Bachelor's theses.<br>
+<b>2017</b>: 4 Bachelor's theses.<br>
+<b>2016</b>: 1 Bachelor's thesis.<br>
+<b>2015</b>: 3 Bachelor's theses.<br>
+<b>2013</b>: 2 Bachelor's theses.<br>
