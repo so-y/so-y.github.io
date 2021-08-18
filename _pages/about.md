@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-Graduated summa cum laude from [Saint Petersburg State University](https://english.spbu.ru/), Department of Software Engineering, in 2007. Defended the PhD thesis on a __Software platform for the creation of domain-specific visual development environments__ at Saint Petersburg State University in 2016.
+Graduated summa cum laude from [Saint Petersburg State University](https://english.spbu.ru/), Department of Software Engineering, in 2007. Defended the PhD thesis on a _Software platform for the creation of domain-specific visual development environments_ at Saint Petersburg State University in 2016.
 
 Senior lecturer and assistant professor at Saint Petersburg State University since 2008, head of the [Machine Learning Methods in Software Engineering](https://research.jetbrains.org/groups/ml_methods/) group at [JetBrains Research](https://research.jetbrains.org/) since 2016, assistant professor at [Higher School of Economics](https://www.hse.ru/en/) since 2018.
 
