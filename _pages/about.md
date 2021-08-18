@@ -8,4 +8,12 @@ redirect_from:
 - /about.html
 ---
 
-Timofey Bryksin is a head of research lab at JetBrains, a company devoted to creating tools for software engineers (IntelliJ IDEA, PyCharm, YouTrack, TeamCity, Space, and many others). Before that he spent almost a decade working in industry as a software engineer and engineering manager. He is also an Associate Professor at Saint Petersburg State University and Higher School of Economics University in Saint Petersburg, Russia. His research interests revolve around software engineering tools and processes and how they can be enhanced with various types of data collected in this field. He holds a Ph.D. in Software Engineering from Saint Petersburg State University.
+Graduated summa cum laude from [Saint Petersburg State University](https://english.spbu.ru/), Department of Software Engineering, in 2007. Defended his Ph.D. thesis on a Software platform for the creation of domain-specific visual development environments at Saint Petersburg State University in 2016.
+
+Senior lecturer and assistant professor at Saint Petersburg State University since 2008, head of the [Machine Learning Methods in Software Engineering](https://research.jetbrains.org/groups/ml_methods/) group at [JetBrains Research](https://research.jetbrains.org/) since 2016, assistant professor at [Higher School of Economics](https://www.hse.ru/en/) since 2018.
+
+Research interests:
+* Visual languages and model-based approach to software engineering,
+* Software development tools and processes,
+* Tools for automated code analysis,
+* Applications of machine learning methods in software engineering.
