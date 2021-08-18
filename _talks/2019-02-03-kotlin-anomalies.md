@@ -1,5 +1,5 @@
 ---
-title: "Code anomalies in Kotlin programs: Automatic detection of anomalous code fragments written in Kotlin"
+title: "Code anomalies in Kotlin programs"
 collection: talks
 type: "Talk"
 permalink: /talks/2012-03-01-talk-1
