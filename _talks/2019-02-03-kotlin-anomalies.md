@@ -2,7 +2,7 @@
 title: "Code anomalies in Kotlin programs"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2019-02-03-kotlin-anomalies
 venue: "ULB Solbosch Campus"
 date: 2019-02-03
 location: "Brussels, Belgium"
