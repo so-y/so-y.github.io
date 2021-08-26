@@ -1,11 +1,11 @@
 ---
 title: "Authorship Attribution of Source Code: A Language-Agnostic Approach and Applicability in Software Engineering"
 authors: '<i>Egor Bogomolov, Vladimir Kovalenko, Yurii Rebryk, Alberto Bacchelli, and Timofey Bryksin</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publication/2021-08-25-authorship-attribution
 date: 2021-08-25
-venue: "<b>ESEC/FSE'21</b>"
+venue: "proceedings of <b>ESEC/FSE'21</b>"
 pdf: 'https://arxiv.org/pdf/2001.11593.pdf'
 data: 'https://github.com/JetBrains-Research/authorship-detection'
 paperurl: 'https://doi.org/10.1145/3468264.3468606'

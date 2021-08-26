@@ -1,11 +1,11 @@
 ---
 title: "One Thousand and One Stories: A Large-Scale Survey of Software Refactoring"
 authors: '<i>Yaroslav Golubev, Zarina Kurbatova, Eman Abdullah AlOmar, Timofey Bryksin, and Mohamed Wiem Mkaouer</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publication/2021-08-25-refactoring-survey
 date: 2021-08-25
-venue: "<b>ESEC/FSE'21</b>"
+venue: "proceedings of <b>ESEC/FSE'21</b>"
 pdf: 'https://arxiv.org/pdf/2107.07357.pdf'
 data: 'https://zenodo.org/record/4923175'
 video: 'https://www.youtube.com/watch?v=51WTxJdm9-M'
