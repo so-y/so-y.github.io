@@ -1,5 +1,5 @@
 ---
-title: "Using Large-Scale Anomaly Detection on Code to Improve Kotlin Compiler"
+title: "Detecting Anomalies in Kotlin Code"
 authors: '<i>Timofey Bryksin, Victor Petukhov, Kirill Smirenko, Nikita Povarov</i>'
 collection: publications
 permalink: /publication/2018-07-16-kotlin-anomalies
