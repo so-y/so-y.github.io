@@ -13,6 +13,6 @@ Graduated summa cum laude from [Saint Petersburg State University](https://engli
 Senior lecturer and associate professor at Saint Petersburg State University since 2008, head of the [Machine Learning Methods in Software Engineering](https://research.jetbrains.org/groups/ml_methods/) group at [JetBrains Research](https://research.jetbrains.org/) since 2016, associate professor at [Higher School of Economics](https://www.hse.ru/en/) since 2018.
 
 Research interests:
-* Software development tools and processes,
-* Tools for automated code analysis,
-* Applications of machine learning methods in software engineering.
+* Software development tools and processes
+* Tools for automated code analysis
+* Applications of machine learning methods in software engineering
