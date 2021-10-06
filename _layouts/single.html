@@ -37,16 +37,16 @@ layout: default
         {% if page.collection == 'teaching' %}
         <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-        {% if page.status == "accepted" %}
-        <p> {{ page.authors }} </p>
-        <p><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to {{ page.venue }}.</p>
-        {% elsif page.status == "preprint" %}
-        <p> {{ page.authors }} </p>
-        <p><span style="color:#888888;"><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b></span>. Published in the <span style="color:#888888;">{{ page.venue }}</span>.</p>
-        {% else %}
-        <p> {{ page.authors }} </p>
-        <p><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in the {{ page.venue }}.</p>
-        {% endif %}
+          {% if page.status == "accepted" %}
+          <p> {{ page.authors }} </p>
+            <p><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to {{ page.venue }}.</p>
+          {% elsif page.status == "preprint" %}
+          <p> {{ page.authors }} </p>
+          <p><span style="color:#888888;"><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b></span>. Published in the <span style="color:#888888;">{{ page.venue }}</span>.</p>
+          {% else %}
+          <p> {{ page.authors }} </p>
+           <p><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in the {{ page.venue }}. <span style="color:#ad7f00;"><b>{{ page.award }}</b></span></p>
+          {% endif %}
         {% elsif page.date %}
         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -57,49 +57,49 @@ layout: default
         {% endif %}
 
         {% if page.collection == 'publications' or page.collection == 'publicationsphysics' %}
-        {% if page.status == "preprint" %}
-        {% assign color = "btn--researchpreprint" %}
-        {% else %}
-        {% assign color = "btn--research" %}
-        {% endif %}
+          {% if page.status == "preprint" %}
+          {% assign color = "btn--researchpreprint" %}
+          {% else %}
+          {% assign color = "btn--research" %}
+          {% endif %}
 
-        {% if page.paperurl %}
-        <a class="{{ color }}" href="{{ page.paperurl }}">DOI</a>
-        {% endif %}
-        {% if page.pdf %}
-        <a class="{{ color }}" href="{{ page.pdf }}">PDF</a>
-        {% endif %}
-        {% if page.data %}
-        <a class="{{ color }}" href="{{ page.data }}">Data</a>
-        {% endif %}
-        {% if page.tool %}
-        <a class="{{ color }}" href="{{ page.tool }}">Tool</a>
-        {% endif %}
-        {% if page.github %}
-        <a class="{{ color }}" href="{{ page.github }}">GitHub</a>
-        {% endif %}
-        {% if page.video %}
-        <a class="{{ color }}" href="{{ page.video }}">Video</a>
-        {% endif %}
+          {% if page.paperurl %}
+          <a class="{{ color }}" href="{{ page.paperurl }}">DOI</a>
+          {% endif %}
+          {% if page.pdf %}
+          <a class="{{ color }}" href="{{ page.pdf }}">PDF</a>
+          {% endif %}
+          {% if page.data %}
+          <a class="{{ color }}" href="{{ page.data }}">Data</a>
+          {% endif %}
+          {% if page.tool %}
+          <a class="{{ color }}" href="{{ page.tool }}">Tool</a>
+          {% endif %}
+          {% if page.github %}
+          <a class="{{ color }}" href="{{ page.github }}">GitHub</a>
+          {% endif %}
+          {% if page.video %}
+          <a class="{{ color }}" href="{{ page.video }}">Video</a>
+          {% endif %}
         {% elsif page.collection == 'tools' %}
-        {% if page.tool %}
-        <a class="btn--research" href="{{ page.tool }}">Tool</a>
-        {% endif %}
-        {% if page.video %}
-        <a class="btn--research" href="{{ page.video }}">Video</a>
-        {% endif %}
-        {% if page.paperurl %}
-        <a class="btn--research" href="{{ page.paperurl }}">Paper DOI</a>
-        {% endif %}
-        {% if page.pdf %}
-        <a class="btn--research" href="{{ page.pdf }}">Paper PDF</a>
-        {% endif %}
-        {% if page.data %}
-        <a class="btn--research" href="{{ page.data }}">Data</a>
-        {% endif %}
-        {% if page.github %}
-        <a class="btn--research" href="{{ page.github }}">GitHub</a>
-        {% endif %}
+          {% if page.tool %}
+          <a class="btn--research" href="{{ page.tool }}">Tool</a>
+          {% endif %}
+          {% if page.video %}
+          <a class="btn--research" href="{{ page.video }}">Video</a>
+          {% endif %}
+          {% if page.paperurl %}
+          <a class="btn--research" href="{{ page.paperurl }}">Paper DOI</a>
+          {% endif %}
+          {% if page.pdf %}
+          <a class="btn--research" href="{{ page.pdf }}">Paper PDF</a>
+          {% endif %}
+          {% if page.data %}
+          <a class="btn--research" href="{{ page.data }}">Data</a>
+          {% endif %}
+          {% if page.github %}
+          <a class="btn--research" href="{{ page.github }}">GitHub</a>
+          {% endif %}
         {% endif %}
       </header>
       {% endunless %}
@@ -109,12 +109,12 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
-      <!--      <footer class="page__meta">-->
-      <!--        {% if site.data.ui-text[site.locale].meta_label %}-->
-      <!--        <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>-->
-      <!--        {% endif %}-->
-      <!--        {% include page__taxonomy.html %}-->
-      <!--      </footer>-->
+<!--      <footer class="page__meta">-->
+<!--        {% if site.data.ui-text[site.locale].meta_label %}-->
+<!--        <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>-->
+<!--        {% endif %}-->
+<!--        {% include page__taxonomy.html %}-->
+<!--      </footer>-->
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
