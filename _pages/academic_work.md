@@ -23,7 +23,7 @@ author_profile: true
 
 <h3>Reviewer</h3>
 
-<b>2022</b>: <a href="https://conf.researchr.org/home/icse-2022">ICSE</a> (Poster Track)<br>
+<b>2022</b>: <a href="https://conf.researchr.org/home/icse-2022">ICSE</a> (Poster Track), <a href="https://msrconf.org/">MSR</a> (Technical Track)<br>
 <b>2021</b>: <a href="https://saner2021.shidler.hawaii.edu/">SANER</a> (Tool Track), <a href="https://2021.msrconf.org/">MSR</a> (Technical Track), <a href="https://2021.esec-fse.org/">ESEC/FSE</a> (Industry Track), <a href="https://src.acm.org/">ACM SRC Grand Finals</a>, <a href="https://seim-conf.org/en/">SEIM</a><br>
 <b>2020</b>: <a href="https://src.acm.org/candidates/2020">ACM SRC Grand Finals</a>, <a href="https://seim-conf.org/en/archive/2020/">SEIM</a><br>
 <b>2019</b>: <a href="https://seim-conf.org/en/archive/2019/">SEIM</a>
@@ -32,26 +32,24 @@ author_profile: true
 
 <b>2021</b>: <a href="https://iwor.github.io/iwor2021/keynote.html">IWoR</a>, <a href="https://icsme2021.github.io/program/Keynotes.html">ICSME</a>
 
-<h2>University work</h2>
+<h2>Educational work</h2>
 
 <h3>Teaching</h3>
 
 <b>Since 2008</b>: senior lecturer and assistant professor at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 <b>Since 2018</b>: assistant professor at <a href="https://www.hse.ru/en/">Higher School of Economics</a>.
 
-<b>Courses</b>:
+<b>University Courses</b>:
 <ul>
-<li>Software development;</li>
-<li>Software architecture and design;</li>
-<li>The basics of C;</li>
-<li>Object Oriented Programming with Kotlin;</li>
-<li>Structures and algorithms for computer data processing;</li>
-<li>Functional programming in Haskell;</li>
-<li>Machine learning for software engineering.</li>
+<li>Software Engineering</li>
+<li>Software Design</li>
+<li>Programming 101</li>
+<li>Functional Programming in Haskell</li>
+<li>Object Oriented Programming with Kotlin</li>
+<li>Machine Learning for Software Engineering</li>
 </ul>
 
-<h3>Curating and advising</h3>
-
+<h3>Curating and Advising</h3>
 <b>2021</b>: 4 Master's theses and 6 Bachelor's theses.<br>
 <b>2020</b>: 2 Master's theses and 11 Bachelor's theses.<br>
 <b>2019</b>: 2 Master's theses and 7 Bachelor's theses.<br>
