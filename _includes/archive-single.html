@@ -97,6 +97,7 @@
           <a class="{{ color }}" href="{{ post.video }}">Video</a>
           {% endif %}
         {% elsif post.collection == 'tools' %}
+
           {% if post.tag %}
           <p style="padding-top:0; margin-bottom:9px;">{{ post.tag }}</p>
           {% endif %}
@@ -118,6 +119,10 @@
           {% if post.github %}
           <a class="btn--research" href="{{ post.github }}">GitHub</a>
           {% endif %}
+          {% if post.award %}
+          <p style="padding-top:0; padding-bottom:0; margin-top:-2px;"><span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
+          {% endif %}
+
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
