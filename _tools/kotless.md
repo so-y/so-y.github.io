@@ -3,7 +3,7 @@ title: "Kotless"
 collection: tools
 permalink: /tool/kotless
 paperurl: 'https://doi.org/10.1109/ASE.2019.00114'
-pdf: 'https://arxiv.org/pdf/2105.13866.pdf'
+pdf: 'https://arxiv.org/abs/2105.13866'
 tool: 'https://github.com/JetBrains/kotless'
 video: 'https://www.youtube.com/watch?v=IMSakPNl3TY'
 tag: 'Kotlin serverless framework that aims to reduce the routine of serverless deployment creation by generating it straight from the code of the application itself.'

@@ -3,7 +3,7 @@ title: "Topias"
 collection: tools
 permalink: /tool/topias
 paperurl: 'https://doi.org/10.1145/3379597.3387451'
-pdf: 'https://arxiv.org/pdf/2004.01652.pdf'
+pdf: 'https://arxiv.org/abs/2004.01652'
 video: 'https://www.youtube.com/watch?v=xsqc4gCTxfA'
 tool: 'https://github.com/JetBrains-Research/topias'
 tag: 'An IntelliJ IDEA plugin for visualization of VCS changes frequency.'

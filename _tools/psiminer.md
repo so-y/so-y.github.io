@@ -3,7 +3,7 @@ title: "PSIMiner"
 collection: tools
 permalink: /tool/psiminer
 tag: 'A tool for processing PSI trees from IntelliJ IDEA and creating a labeled dataset from them.'
-pdf: 'https://arxiv.org/pdf/2103.12778.pdf'
+pdf: 'https://arxiv.org/abs/2103.12778'
 paperurl: 'https://doi.org/10.1109/MSR52588.2021.00014'
 tool: 'https://github.com/JetBrains-Research/psiminer'
 video: 'https://www.youtube.com/watch?v=isgfJL4-9Yg'

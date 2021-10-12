@@ -3,7 +3,7 @@ title: "Sosed"
 collection: tools
 permalink: /tool/sosed
 paperurl: 'https://doi.org/10.1145/3324884.3415291'
-pdf: 'https://arxiv.org/pdf/2007.02599.pdf'
+pdf: 'https://arxiv.org/abs/2007.02599'
 tool: 'https://github.com/JetBrains-Research/sosed/'
 video: 'https://www.youtube.com/watch?v=LYLkztCGRt8'
 tag: 'A tool for discovering similar software projects.'
