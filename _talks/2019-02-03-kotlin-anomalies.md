@@ -3,7 +3,7 @@ title: "Code anomalies in Kotlin programs"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-02-03-kotlin-anomalies
-venue: "ULB Solbosch Campus"
+venue: "FOSDEM'19"
 date: 2019-02-03
 location: "Brussels, Belgium"
 video: '<iframe width="560" height="315" src="https://www.youtube.com/embed/OFsRpmXnf4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
