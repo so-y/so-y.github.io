@@ -1,11 +1,11 @@
 ---
 title: "RefactorInsight: Enhancing IDE Representation of Changes in Git with Refactorings Information"
 authors: '<i>Zarina Kurbatova, Vladimir Kovalenko, Ioana Savu, Bob Brockbernd, Dan Andreescu, Matei Anton, Roman Venediktov, Elena Tikhomirova, and Timofey Bryksin</i>'
-status: "accepted"
+status: "published"
 collection: publications
 permalink: /publication/2021-11-15-refactorinsight
 date: 2021-11-15
-venue: "<b>ASE'21</b>"
+venue: "proceedings of <b>ASE'21</b>"
 pdf: 'https://arxiv.org/abs/2108.11202'
 tool: 'https://github.com/JetBrains-Research/RefactorInsight'
 video: 'https://www.youtube.com/watch?v=-6L2AKQ66nA'
