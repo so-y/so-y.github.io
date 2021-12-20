@@ -36,8 +36,8 @@ author_profile: true
 
 <h3>Teaching</h3>
 
-<b>Since 2008</b>: senior lecturer and assistant professor at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
-<b>Since 2018</b>: assistant professor at <a href="https://www.hse.ru/en/">Higher School of Economics</a>.
+<b>Since 2008</b>: senior lecturer and associate professor at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+<b>Since 2018</b>: associate professor at <a href="https://www.hse.ru/en/">HSE University</a>.
 
 <b>University Courses</b>:
 <ul>
