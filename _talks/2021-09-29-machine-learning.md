@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning and IDE: A JetBrains Case"
 collection: talks
-type: "Talk"
+type: "Keynote"
 permalink: /talks/2021-09-29-machine-learning
 venue: "ICSME'21"
 date: 2021-09-29
