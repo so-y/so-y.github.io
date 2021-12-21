@@ -88,7 +88,9 @@
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-pencil:before { content: fa-content($fa-var-pencil-alt); }
 
-.#{$fa-css-prefix}.#{$fa-css-prefix}-map-marker:before { content: fa-content($fa-var-map-marker-alt); }
+.#{$fa-css-prefix}.#{$fa-css-prefix}-map-marker:before { content: fa-content($fa-var-map-marker); }
+
+.#{$fa-css-prefix}.#{$fa-css-prefix}-map-marked-alt:before { content: fa-content($fa-var-map-marked-alt); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-pencil-square-o {
   font-family: 'Font Awesome 5 Free';
@@ -155,6 +157,11 @@
 .#{$fa-css-prefix}.#{$fa-css-prefix}-bar-chart-o:before { content: fa-content($fa-var-chart-bar); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-twitter-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400;
+}
+
+.#{$fa-css-prefix}.#{$fa-css-prefix}-twitter {
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400;
 }

@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=kcbdyR4AAAAJ&hl=en"
-  email            : "timofey[dot]bryksin[at]jetbrains[dot]com"
+  email            : "timofey.bryksin[at]jetbrains.com"
   researchgate     : "https://www.researchgate.net/profile/Timofey-Bryksin-2"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  dblp             : "https://dblp.org/pid/136/0260.html"
 
 
 # Reading Files
