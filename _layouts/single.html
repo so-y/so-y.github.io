@@ -72,7 +72,10 @@ layout: default
           <a class="{{ color }}" href="{{ page.paperurl }}">DOI</a>
           {% endif %}
           {% if page.pdf %}
-          <a class="{{ color }}" href="{{ page.pdf }}">Pre-print</a>
+          <a class="{{ color }}" href="{{ page.pdf }}">PDF</a>
+          {% endif %}
+          {% if page.slides %}
+          <a class="{{ color }}" href="{{ page.slides }}">Slides</a>
           {% endif %}
           {% if page.data %}
           <a class="{{ color }}" href="{{ page.data }}">Data</a>

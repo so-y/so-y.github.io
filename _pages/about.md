@@ -8,11 +8,10 @@ redirect_from:
 - /about.html
 ---
 
-Graduated summa cum laude from [Saint Petersburg State University](https://english.spbu.ru/), Department of Software Engineering, in 2007. Defended the PhD thesis on a _Software platform for the creation of domain-specific visual development environments_ at Saint Petersburg State University in 2016.
-
-Senior lecturer and associate professor at Saint Petersburg State University since 2008, head of the [Machine Learning Methods in Software Engineering](https://research.jetbrains.org/groups/ml_methods/) group at [JetBrains Research](https://research.jetbrains.org/) since 2016, associate professor at [HSE University](https://www.hse.ru/en/) since 2018.
+I am a fourth-year Ph.D. candidate in the [Institute of Parallel and Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn/zh) at Shanghai Jiao Tong University, advised by Prof. [Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen).
+Previously, I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018.
 
 Research interests:
-* Software development tools and processes
-* Tools for automated code analysis
-* Applications of machine learning methods in software engineering
+* Operating systems
+* Persistent memory
+* File systems

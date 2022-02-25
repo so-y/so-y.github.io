@@ -82,7 +82,10 @@
           <a class="{{ color }}" href="{{ post.paperurl }}">DOI</a>
           {% endif %}
           {% if post.pdf %}
-          <a class="{{ color }}" href="{{ post.pdf }}">Pre-print</a>
+          <a class="{{ color }}" href="{{ post.pdf }}">PDF</a>
+          {% endif %}
+          {% if post.slides %}
+          <a class="{{ color }}" href="{{ post.slides }}">Slides</a>
           {% endif %}
           {% if post.data %}
           <a class="{{ color }}" href="{{ post.data }}">Data</a>

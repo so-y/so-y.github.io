@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Timofey Bryksin"
+title                    : "Jifei Yi"
 title_separator          : "—"
-name                     : &name "Timofey Bryksin"
-description              : &description "Timofey Bryksin"
-url                      : "https://jzuken.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jifei Yi"
+description              : &description "Jifei Yi"
+url                      : "https://so-y.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jzuken/jzuken.github.io"
+repository               : "so-y/so-y.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : timofeybryksin
+  username               : #timofeybryksin
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Timofey Bryksin"
-  avatar           : "main.png"
-  bio              : "Head of the ML4SE group at JetBrains Research"
-  location         : "Saint Petersburg, Russia"
+  name             : "Jifei Yi"
+  avatar           : "jifeiyi.jpg"
+  bio              : "A Ph.D. candidate of <a href=\"https://ipads.se.sjtu.edu.cn/zh/\">IPADS</a>, SJTU"
+  location         : "Shanghai, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=kcbdyR4AAAAJ&hl=en"
-  email            : "timofey.bryksin[at]jetbrains.com"
-  researchgate     : "https://www.researchgate.net/profile/Timofey-Bryksin-2"
+  googlescholar    : #"https://scholar.google.com/citations?user=kcbdyR4AAAAJ&hl=en"
+  email            : "jifeiyi@sjtu.edu.cn"
+  researchgate     : #"https://www.researchgate.net/profile/Timofey-Bryksin-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,26 +96,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jzuken"
+  github           : #"jzuken"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "timofey-bryksin-84a6548b"
-  orcid            : "https://orcid.org/0000-0001-9022-3563"
+  linkedin         : #"timofey-bryksin-84a6548b"
+  orcid            : #"https://orcid.org/0000-0001-9022-3563"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "timofeybryksin"
+  twitter          : #"timofeybryksin"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  dblp             : "https://dblp.org/pid/136/0260.html"
+  dblp             : "https://dblp.org/pid/251/1771.html"
 
 
 # Reading Files
@@ -176,13 +176,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  tools:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -228,15 +225,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _tools
-  - scope:
-      path: ""
-      type: tools
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
